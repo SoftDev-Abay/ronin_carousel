@@ -81,7 +81,7 @@ section {
 .content {
   position: relative;
   width: 100%;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -143,6 +143,7 @@ section {
 .swiper {
   max-width: 1158px;
   width: 100%;
+  padding: 100px 0;
 }
 
 .swiper-slide {
